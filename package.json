@@ -1,7 +1,0 @@
-{
-  "name": "python-test",
-  "version": "0.0.1",
-  "engines": {
-    "python": "2.7.x",
-  }
-}
